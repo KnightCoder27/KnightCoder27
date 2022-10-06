@@ -1,6 +1,6 @@
 - 👋 Hi, S Krish Here and You?
 - 👀 Interested in Computer Stuffs
-- 🌱 PS: Obviosuly, Not a Typical Nerd.
+- 😎 PS: Obviosuly, Not a Typical Nerd.
 - 💞️ Happy to collaborate in Projects
 - 📫 You know How to Reach me
 
