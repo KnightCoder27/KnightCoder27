@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KnightCoder27
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning PL/SQL
-- 💞️ I’m looking to collaborate in Projects
-- 📫 How to reach me @risingbatman712@gmail.com
+- 👋 Hi, S Krish Here and You?
+- 👀 Interested in Computer Stuffs
+- 🌱 PS: Obviosuly, Not a Typical Nerd.
+- 💞️ Happy collaborate in Projects
+- 📫 You know How to Reach me
 
 <!---
 KnightCoder27/KnightCoder27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
