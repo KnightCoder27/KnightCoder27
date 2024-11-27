@@ -1,11 +1,12 @@
 👋 **Hey, S Krish here!**  
-🚀 **Passionate about:** **Python**, **Django**, and **SQL**, and exploring new tech frontiers.  
+🚀 **Passionate about**: **Python**, **Django**, and **SQL**, and exploring new tech frontiers.  
 
-💡 **Current Mission:** Crafting Web Apps (SaaS) designed to make your life easier in the future.
-🎯 **Next Big Goal:** Focusing on building expertise in **AI/ML** and **Data Science**.
+💡 **Current Mission**: Crafting Web Apps (**SaaS**) designed to make your life easier in the future.  
+🎯 **Next Big Goal**: Focusing on building expertise in **AI/ML and Data Science**.  
 
-😎 **PS:** I’m not your typical nerd—just a curious techie who loves collaboration and fun challenges!
-💬 **Let’s Talk:** Open to brainstorming, co-building, or just geeking out. You know how to reach me!  
+😎 **PS**: I’m not your typical nerd—just a curious techie who loves collaboration and fun challenges!  
+💬 **Let’s Talk**: Open to brainstorming, co-building, or just geeking out. You know how to reach me!  
+
 
 <!---
 KnightCoder27/KnightCoder27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
